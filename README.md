@@ -37,6 +37,6 @@ Modules:
 - GTKWave
 - Git
 
-## Author
+
 
 Your Name
