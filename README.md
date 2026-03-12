@@ -120,6 +120,7 @@ Waveforms are generated using **VCD files** and visualized in **GTKWave**.
 iverilog -o sim.out tb/async_fifo_tb.v rtl/*.v
 vvp sim.out
 gtkwave async_fifo.vcd
+```
 
 ![Waveform](GTKWave.png)
 
